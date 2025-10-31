@@ -1,4 +1,4 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: Spelling Bee
 
 ## GitHub handle
 _Enter your GitHub handle_
